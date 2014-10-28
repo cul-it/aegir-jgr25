@@ -1,0 +1,6 @@
+;; drush make file for aegir-jgr
+;;
+
+core = 6.x
+api = 2
+projects[drupal][version] = "6.33"
