@@ -1,4 +1,4 @@
-;; drush make file for aegir-jgr
+;; drush make file for aegir-jgr25
 ;;
 
 core = 6.x
