@@ -39,7 +39,6 @@ projects[cu_banners][download][url] = "https://svn.library.cornell.edu/cu_banner
 projects[cu_banners][revision] = "HEAD"
 projects[cu_banners][subdir] = "custom"
 projects[cu_banners][type] = "module"
-projects[date][patch][] = "http://www.drupal.org/files/2034231-date-migration-consolidated-do-not-test.patch"
 projects[date][version] = "2.8"
 projects[devel][version] = "1.5"
 projects[email][version] = "1.3"
