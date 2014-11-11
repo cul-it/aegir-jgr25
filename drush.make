@@ -7,6 +7,22 @@ core = 7.x
 api = 2
 projects[drupal][version] = "7.33"
 
+; modules from D6 site not found in D7
+;projects[filefield][version] = "3.13"
+;projects[google_cse][patch][] = "http://drupal.org/files/1345218.patch"
+;projects[image][version] = "1.2"
+;projects[imagefield][version] = "3.11"
+;projects[jquery_ui][version] = "1.5"
+;projects[management_library][download][type] = "svn"
+;projects[management_library][download][url] = "https://svn.library.cornell.edu/management_library/trunk/theme"
+;projects[management_library][type] = "theme"
+;projects[node_import][version] = "1.2"
+;projects[quicktabs][version] = "2.2"
+;projects[tagadelic][version] = "1.5"
+;projects[tagadelic_views][version] = "1.2"
+;projects[taxonomy_redirect][version] = "1.3"
+;projects[views_customfield][version] = "1.0"
+
 libraries[jquery.ui][destination] = "modules/jquery_ui"
 libraries[jquery.ui][directory_name] = "jquery.ui"
 libraries[jquery.ui][download][type] = "get"
