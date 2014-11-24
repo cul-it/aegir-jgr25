@@ -23,6 +23,10 @@ projects[drupal][version] = "7.34"
 ;projects[taxonomy_redirect][version] = "1.3"
 ;projects[views_customfield][version] = "1.0"
 
+libraries[bootstrap][destination] = themes/bootstrap
+libraries[bootstrap][directory_name] = "bootstrap"
+libraries[bootstrap][download][type] = "get"
+libraries[bootstrap][download][url] = "https://github.com/twbs/bootstrap/archive/v3.2.0.zip"
 libraries[jquery.ui][destination] = "modules/jquery_ui"
 libraries[jquery.ui][directory_name] = "jquery.ui"
 libraries[jquery.ui][download][type] = "get"
@@ -39,6 +43,7 @@ projects[ares][download][url] = "https://svn.library.cornell.edu/ares/branches/d
 projects[ares][revision] = "HEAD"
 projects[ares][type] = "module"
 projects[backup_migrate][version] = "3.0"
+projects[bootstrap][version] = "3.0"
 projects[cck][version] = "3.0-alpha3"
 projects[content_taxonomy][version] = "1.0-beta2"
 projects[ctools][version] = "1.4"
@@ -96,3 +101,4 @@ projects[views_accordion][version] = "1.0"
 projects[views_bulk_operations][version] = "3.2"
 projects[webform][version] = "4.1"
 projects[wysiwyg][version] = "2.2"
+
