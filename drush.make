@@ -5,7 +5,7 @@
 core = 7.x
 
 api = 2
-projects[drupal][version] = "7.33"
+projects[drupal][version] = "7.34"
 
 ; modules from D6 site not found in D7
 ;projects[filefield][version] = "3.13"
@@ -71,7 +71,7 @@ projects[johnsonlibrary][download][branch] = "master"
 projects[johnsonlibrary][download][type] = "git"
 projects[johnsonlibrary][download][url] = "git@github.com:cul-it/johnson-library-cornell-edu-theme.git"
 projects[johnsonlibrary][type] = "theme"
-projects[link][version] = "1.2"
+projects[link][version] = "1.3"
 projects[linkchecker][version] = "1.2"
 projects[menu_breadcrumb][version] = "1.5"
 projects[menu_clone][version] = "1.0-beta2"
