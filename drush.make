@@ -3,7 +3,6 @@
 
 core = 7.x
 api = 2
-projects[drupal][version] = "7.32"
 projects[drupal][version] = "7.34"
 
 libraries[jquery.ui][directory_name] = "jquery.ui"
@@ -28,7 +27,7 @@ projects[computed_field][version] = "1.0"
 projects[content_taxonomy][version] = "1.0-beta2"
 projects[context][version] = "3.3"
 projects[css_injector][version] = "1.10"
-projects[ctools][version] = "1.4"
+projects[ctools][version] = "1.5"
 projects[date][version] = "2.8"
 projects[devel][version] = "1.5"
 projects[email][version] = "1.3"
@@ -67,6 +66,6 @@ projects[transliteration][version] = "3.2"
 projects[views][version] = "3.8"
 projects[views_bulk_operations][version] = "3.2"
 projects[wysiwyg][version] = "2.2"
-projects[xmlsitemap][version] = "2.0"
+projects[xmlsitemap][version] = "2.1"
 projects[zen][version] = "5.5"
 
