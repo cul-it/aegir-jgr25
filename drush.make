@@ -3,7 +3,7 @@
 
 core = 6.x
 api = 2
-projects[drupal][version] = "6.33"
+projects[drupal][version] = "6.34"
 
 libraries[jquery.ui][directory_name] = "jquery.ui"
 libraries[jquery.ui][download][type] = "get"
