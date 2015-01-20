@@ -78,8 +78,8 @@ projects[token][version] = "1.5"
 projects[transliteration][version] = "3.2"
 projects[views][version] = "3.8"
 projects[views_bulk_operations][version] = "3.2"
+projects[views_data_export][version] = "3.0-beta8"
 projects[wysiwyg][version] = "2.2"
 projects[xmlsitemap][version] = "2.1"
 projects[zen][version] = "5.5"
-
 
