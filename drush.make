@@ -5,7 +5,7 @@ core = 6.x
 api = 2
 projects[drupal][version] = "6.35"
 
-projects[admin_menu][version] = "1.8"
+projects[admin_menu][version] = "1.9"
 projects[advanced_help][version] = "1.2"
 projects[backup_migrate][version] = "2.8"
 projects[cck][version] = "2.9"
@@ -70,6 +70,6 @@ projects[token][version] = "1.19"
 projects[views][version] = "2.18"
 projects[views_bulk_operations][version] = "1.16"
 projects[wysiwyg][version] = "2.4"
-projects[xmlsitemap][version] = "2.0"
+projects[xmlsitemap][version] = "2.1"
 projects[zen][type] = "theme"
 projects[zen][version] = "1.2"
