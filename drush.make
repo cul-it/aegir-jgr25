@@ -3,7 +3,7 @@
 
 core = 6.x
 api = 2
-projects[drupal][version] = "6.33"
+projects[drupal][version] = "6.35"
 
 projects[admin_menu][version] = "1.8"
 projects[advanced_help][version] = "1.2"
@@ -13,7 +13,7 @@ projects[computed_field][version] = "1.0"
 projects[content_taxonomy][version] = "1.0-rc2"
 projects[context][version] = "3.3"
 projects[css_injector][version] = "1.4"
-projects[ctools][version] = "1.11"
+projects[ctools][version] = "1.12"
 projects[cu_aerialny][download][type] = "svn"
 projects[cu_aerialny][download][url] = "https://svn.library.cornell.edu/cu_aerialny/trunk/module"
 projects[cu_aerialny][type] = "module"
@@ -67,7 +67,7 @@ projects[soapclient][version] = "1.0-beta2"
 projects[taxonomy_manager][version] = "2.3"
 projects[taxonomy_menu][version] = "2.9"
 projects[token][version] = "1.19"
-projects[views][version] = "2.16"
+projects[views][version] = "2.18"
 projects[views_bulk_operations][version] = "1.16"
 projects[wysiwyg][version] = "2.4"
 projects[xmlsitemap][version] = "2.0"
