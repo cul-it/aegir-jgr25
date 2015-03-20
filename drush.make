@@ -14,7 +14,7 @@ core = 6.x
 api = 2
 projects[drupal][version] = "6.35"
 
-libraries[imagemagick][destination] = ../includes
+libraries[imagemagick][destination] = ../../includes
 libraries[imagemagick][download][type] = "get"
 libraries[imagemagick][download][url] = "http://cgit.drupalcode.org/image/plain/image.imagemagick.inc"
 libraries[jquery.ui][directory_name] = "jquery.ui"
