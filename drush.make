@@ -20,6 +20,7 @@ libraries[imagemagick][download][url] = "http://cgit.drupalcode.org/image/plain/
 libraries[jquery.ui][directory_name] = "jquery.ui"
 libraries[jquery.ui][download][type] = "get"
 libraries[jquery.ui][download][url] = "http://jquery-ui.googlecode.com/files/jquery-ui-1.8.17.zip"
+libraries[tcpdf][destination] = sites/all/modules/print
 libraries[tcpdf][directory_name] = "tcpdf"
 libraries[tcpdf][download][type] = "svn"
 libraries[tcpdf][download][url] = "https://svn.library.cornell.edu/tcpdf-clone/trunk"
