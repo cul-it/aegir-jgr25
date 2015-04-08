@@ -5,7 +5,7 @@
 
 core = 7.x
 api = 2
-projects[drupal][version] = "7.33"
+projects[drupal][version] = "7.36"
 
 libraries[geophp][directory_name] = "geophp"
 libraries[geophp][download][type] = "get"
