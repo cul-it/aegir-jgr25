@@ -55,6 +55,6 @@ projects[simplesamlphp_auth][version] = "2.0-alpha2"
 projects[strongarm][version] = "2.0"
 projects[token][version] = "1.6"
 projects[transliteration][version] = "3.2"
-projects[views][version] = "3.10"
+projects[views][version] = "3.11"
 projects[views_field_view][version] = "1.1"
 
