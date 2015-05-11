@@ -7,9 +7,10 @@ core = 7.x
 api = 2
 projects[drupal][version] = "7.37"
 
-libraries[geophp][directory_name] = "geophp"
-libraries[geophp][download][type] = "get"
-libraries[geophp][download][url] = "https://github.com/phayes/geoPHP/archive/master.zip"
+libraries[geoPHP][type] = "libraries"
+libraries[geoPHP][download][type] = "git"
+libraries[geoPHP][download][url] = "https://github.com/phayes/geoPHP.git"
+libraries[geoPHP][download][branch] = "master"
 libraries[leaflet][directory_name] = "leaflet"
 libraries[leaflet][download][type] = "get"
 libraries[leaflet][download][url] = "http://leaflet-cdn.s3.amazonaws.com/build/leaflet-0.7.3.zip"
