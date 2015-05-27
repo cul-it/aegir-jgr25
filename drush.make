@@ -7,8 +7,6 @@ core = 7.x
 api = 2
 projects[drupal][version] = "7.37"
 
-libraries[aws][download][type] = "get"
-libraries[aws][download][url] = "https://github.com/aws/aws-sdk-php/releases/download/2.8.6/aws.zip"
 libraries[geophp][directory_name] = "geophp"
 libraries[geophp][download][type] = "get"
 libraries[geophp][download][url] = "https://github.com/phayes/geoPHP/archive/master.zip"
