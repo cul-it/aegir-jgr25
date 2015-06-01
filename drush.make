@@ -1,6 +1,6 @@
 ;; drush make file for aegir-jgr25
 ;;
 
-core = 6.x
+core = 7.x
 api = 2
-projects[drupal][version] = "6.33"
+projects[drupal][version] = "7.37"
