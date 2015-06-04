@@ -7,3 +7,4 @@ engineering.library.cornell.edu
 lts.library.cornell.edu
 olinuris.library.cornell.edu
 seanews.library.cornell.edu
+shelfserve.library.cornell.edu
