@@ -79,5 +79,6 @@ projects[token][version] = "1.6"
 projects[transliteration][version] = "3.2"
 projects[views][version] = "3.11"
 projects[views_bulk_operations][version] = "3.2"
+projects[views_data_export][version] = "3.0-beta8"
 projects[views_field_view][version] = "1.1"
 
