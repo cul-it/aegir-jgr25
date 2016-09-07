@@ -14,3 +14,5 @@ projects[cul_common][download][url] = "https://github.com/cul-it/cul-common"
 projects[cul_common][type] = "module"
 
 projects[webform] = "4.14"
+projects[views][version] = "3.14"
+projects[ctools] = "1.10"
