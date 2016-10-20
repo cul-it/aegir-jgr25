@@ -7,6 +7,8 @@ projects[drupal] = "7.51"
 
 libraries[openseadragon][download][type] = "get"
 libraries[openseadragon][download][url] = "https://github.com/openseadragon/openseadragon/releases/download/v2.2.1/openseadragon-bin-2.2.1.tar.gz"
+libraries[phpseclib][download][type] = "get"
+libraries[phpseclib][download][url] = "http://downloads.sourceforge.net/project/phpseclib/phpseclib1.0.4.zip?r=&ts=1476980169&use_mirror=heanet"
 projects[admin_menu] = "3.0-rc5"
 projects[clients] = "3.1"
 projects[cors] = "1.3"
